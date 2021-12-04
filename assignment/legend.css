@@ -1,0 +1,19 @@
+header{
+  background-color: #b491c8;
+}
+.info {
+  background: linear-gradient(to left, #52307c, #333 50%, #FFDA00 75%, #52307c 75%);
+  color: #FFFFFF;
+  text-align: center;
+}
+img{
+  width: 300px;
+  border-style: groove;
+  border-width: thick;
+  text-align: center;
+}
+h3{
+  background-color: #b491c8;
+  color: #FFDA00;
+  text-align: center;
+}
